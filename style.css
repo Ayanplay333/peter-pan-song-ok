@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+    font-family: monospace;
+}
+.heading{
+width: 100%;
+margin-top: 0px;
+font-size: 30px;
+}
+.note{
+    color: black;
+    font-size: 15px;
+}
+canvas{
+    border: 5px solid white;
+    margin-top: 70px;
+}
+ 
